@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\bin\Release\HRes.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\bin\Release\HRes.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\bin\Release\HRes.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.HResMain.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.MaRecruitMode.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\HRes\obj\Release\HRes.MaRecruitModeS.resources

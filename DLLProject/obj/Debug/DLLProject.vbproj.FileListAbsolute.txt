@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\bin\Debug\DLLProject.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\bin\Debug\DLLProject.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.dll
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.Testdll.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.NextForm.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\bin\Debug\DLLProject.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\bin\Debug\DLLProject.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.NextForm.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.Testdll.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Debug\DLLProject.pdb

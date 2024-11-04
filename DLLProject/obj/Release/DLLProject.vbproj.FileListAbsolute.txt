@@ -1,0 +1,3 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Release\DLLProject.Testdll.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\HRes\DLLProject\obj\Release\DLLProject.vbproj.GenerateResource.Cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HRes", "HRes\HRes.vbproj", "{A6A3EFDB-2146-4CD7-AD8E-053093B12023}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DLLProject", "DLLProject\DLLProject.vbproj", "{5509F50D-1660-49A9-9822-281434BDA4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A3EFDB-2146-4CD7-AD8E-053093B12023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A3EFDB-2146-4CD7-AD8E-053093B12023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A3EFDB-2146-4CD7-AD8E-053093B12023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A3EFDB-2146-4CD7-AD8E-053093B12023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5509F50D-1660-49A9-9822-281434BDA4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5509F50D-1660-49A9-9822-281434BDA4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5509F50D-1660-49A9-9822-281434BDA4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5509F50D-1660-49A9-9822-281434BDA4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
